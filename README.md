@@ -1,5 +1,3 @@
-Project Name: **TodoApp-Kubernetes**
-
 # TodoApp-Kubernetes
 
 ## Introduction
@@ -99,7 +97,3 @@ This will open the application in the browser, allowing you to test the API.
 ## Conclusion
 
 Congratulations! You have successfully deployed the TodoApp-Kubernetes project on your Kubernetes cluster. Enjoy managing your todo items in a scalable and efficient manner. Feel free to explore and customize the application to suit your requirements.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
